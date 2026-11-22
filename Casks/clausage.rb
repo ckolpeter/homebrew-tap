@@ -1,6 +1,6 @@
 cask "clausage" do
-  version "0.2.1"
-  sha256 "4c0d9d9f12e1d46435ca946df796350251b42cdc93a14aec5a038a1783d620ef"
+  version "0.2.2"
+  sha256 "73c9bd7e992e8eac72071d78be298c44533eab1d62967ad1341a9881e3fd5453"
 
   url "https://github.com/ckolpeter/clausage/releases/download/v#{version}/Clausage-#{version}-mac-universal.dmg"
   name "Clausage"
